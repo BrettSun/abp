@@ -321,4 +321,3 @@ appsettings.secrets.json
 deploy/nuget-api-key.txt
 deploy/npm-auth-token.txt
 deploy/ssh-password.txt
-/framework/test/Volo.Abp.TestApp/Properties
